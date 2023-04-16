@@ -1,0 +1,5 @@
+order/OrderWithNotAuthorizedUserTest.class
+user/CreateUserTest.class
+user/ChangeInformationUserTest.class
+order/OrderWithAuthorizedUserTest.class
+user/LoginUserTest.class
